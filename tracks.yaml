@@ -16,7 +16,7 @@ tracks:
     patches: null
     release_inc: '1'
     release_repo_url: null
-    release_tag: 0.5.6
+    release_tag: 0.5.9
     ros_distro: hydro
     vcs_type: git
     vcs_uri: https://github.com/PR2/pr2_apps.git

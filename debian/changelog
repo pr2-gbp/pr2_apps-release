@@ -1,0 +1,59 @@
+ros-hydro-pr2-apps (0.5.9-0raring) raring; urgency=high
+
+  * Added app manager to package.xml
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 01 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-apps (0.5.8-0raring) raring; urgency=high
+
+  * Updated maintainership
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 30 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-apps (0.5.7-0raring) raring; urgency=high
+
+  * Changelog
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 17 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-apps (0.5.6-0raring) raring; urgency=high
+
+
+
+ -- Maintained by Wim Meeussen <wim@willowgarage.com>  Sun, 07 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-apps (0.5.5-0raring) raring; urgency=high
+
+
+
+ -- Maintained by Wim Meeussen <wim@willowgarage.com>  Sun, 07 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-apps (0.5.4-0raring) raring; urgency=high
+
+
+
+ -- Maintained by Wim Meeussen <wim@willowgarage.com>  Sun, 07 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-apps (0.5.3-0raring) raring; urgency=high
+
+
+
+ -- Maintained by Wim Meeussen <wim@willowgarage.com>  Sun, 07 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-apps (0.5.2-0raring) raring; urgency=high
+
+
+
+ -- Maintained by Wim Meeussen <wim@willowgarage.com>  Sun, 07 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-apps (0.5.1-0raring) raring; urgency=high
+
+  * add pr2_apps meta package, remove stack.xml
+  * Contributors: Kei Okada
+
+ -- Maintained by Wim Meeussen <wim@willowgarage.com>  Sat, 06 Sep 2014 04:00:00 -0000
+
+

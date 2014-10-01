@@ -2,6 +2,25 @@
 Changelog for package pr2_teleop_general
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.9 (2014-10-01)
+------------------
+
+0.5.8 (2014-09-30)
+------------------
+* Updated maintainership
+* Fixing the tf/LinearMath/Quaternion.h not found bug
+* Contributors: TheDash
+
+0.5.7 (2014-09-17)
+------------------
+* Fixed teleop commander lib gen
+* Changelog
+* Things
+* Contributors: TheDash
+
+* Things
+* Contributors: TheDash
+
 0.5.6 (2014-09-07)
 ------------------
 

@@ -1,0 +1,10 @@
+ros-hydro-pr2-app-manager (0.5.9-0quantal) quantal; urgency=high
+
+  * Updated pr2_app_manager, now compiles in hydro
+  * Updated pr2_app_manager
+  * Added pr2_app_manager package
+  * Contributors: TheDash
+
+ -- Dash <dash@clearpathrobotics.com>  Wed, 01 Oct 2014 04:00:00 -0000
+
+

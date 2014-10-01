@@ -1,0 +1,12 @@
+Source: ros-hydro-pr2-teleop
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-actionlib, ros-hydro-catkin, ros-hydro-geometry-msgs, ros-hydro-pr2-controllers-msgs, ros-hydro-roscpp, ros-hydro-rospy, ros-hydro-std-msgs, ros-hydro-tf, ros-hydro-topic-tools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pr2-teleop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-actionlib, ros-hydro-geometry-msgs, ros-hydro-pr2-controllers-msgs, ros-hydro-roscpp, ros-hydro-rospy, ros-hydro-std-msgs, ros-hydro-tf, ros-hydro-topic-tools
+Description: The pr2_teleop package

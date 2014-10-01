@@ -1,8 +1,8 @@
 <package>
   <name>pr2_teleop_general</name>
-  <version>0.5.6</version>
+  <version>0.5.9</version>
   <description>pr2_teleop_general</description>
-  <maintainer email="gil@willowgarage.com">Gil Jones</maintainer>
+  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
 
   <license>BSD</license>
 
@@ -28,7 +28,9 @@
   <build_depend>polled_camera</build_depend>
   <build_depend>bullet</build_depend>
   <build_depend>moveit_msgs</build_depend>
-
+  <build_depend>tf</build_depend>
+ 
+  <run_depend>tf</run_depend>
   <run_depend>moveit_msgs</run_depend>
   <run_depend>roscpp</run_depend>
   <run_depend>actionlib</run_depend>

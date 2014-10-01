@@ -2,6 +2,21 @@
 Changelog for package pr2_position_scripts
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.9 (2014-10-01)
+------------------
+
+0.5.8 (2014-09-30)
+------------------
+
+0.5.7 (2014-09-17)
+------------------
+* Changelog
+* install targets
+* Contributors: TheDash
+
+* install targets
+* Contributors: TheDash
+
 0.5.6 (2014-09-07)
 ------------------
 

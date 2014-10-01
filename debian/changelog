@@ -1,0 +1,63 @@
+ros-hydro-pr2-position-scripts (0.5.9-0quantal) quantal; urgency=high
+
+
+
+ -- Tony Pratkanis <tony@willowgarage.com>  Wed, 01 Oct 2014 04:00:00 -0000
+
+ros-hydro-pr2-position-scripts (0.5.8-0quantal) quantal; urgency=high
+
+
+
+ -- Tony Pratkanis <tony@willowgarage.com>  Tue, 30 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-position-scripts (0.5.7-0quantal) quantal; urgency=high
+
+  * Changelog
+  * install targets
+  * Contributors: TheDash
+  * install targets
+  * Contributors: TheDash
+
+ -- Tony Pratkanis <tony@willowgarage.com>  Wed, 17 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-position-scripts (0.5.6-0quantal) quantal; urgency=high
+
+
+
+ -- Tony Pratkanis <tony@willowgarage.com>  Sun, 07 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-position-scripts (0.5.5-0quantal) quantal; urgency=high
+
+
+
+ -- Tony Pratkanis <tony@willowgarage.com>  Sun, 07 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-position-scripts (0.5.4-0quantal) quantal; urgency=high
+
+
+
+ -- Tony Pratkanis <tony@willowgarage.com>  Sun, 07 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-position-scripts (0.5.3-0quantal) quantal; urgency=high
+
+
+
+ -- Tony Pratkanis <tony@willowgarage.com>  Sun, 07 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-position-scripts (0.5.2-0quantal) quantal; urgency=high
+
+
+
+ -- Tony Pratkanis <tony@willowgarage.com>  Sun, 07 Sep 2014 04:00:00 -0000
+
+ros-hydro-pr2-position-scripts (0.5.1-0quantal) quantal; urgency=high
+
+  * pr2_teleop_general now depends on moveit_msgs instead of kinematics_msgs
+  * catkinize pr2_positoin_scripts
+  * switched torso_up.py to use the torso_controller/position_joint_action so it stops chugging continuously
+  * Add new package with scripts to adjust position of head and torso
+  * Contributors: Kaijen Hsiao, Kei Okada, TheDash, pratkanis
+
+ -- Tony Pratkanis <tony@willowgarage.com>  Sat, 06 Sep 2014 04:00:00 -0000
+
+

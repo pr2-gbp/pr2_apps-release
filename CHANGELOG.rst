@@ -2,6 +2,21 @@
 Changelog for package pr2_apps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.9 (2014-10-01)
+------------------
+* Added app manager to package.xml
+* Contributors: TheDash
+
+0.5.8 (2014-09-30)
+------------------
+* Updated maintainership
+* Contributors: TheDash
+
+0.5.7 (2014-09-17)
+------------------
+* Changelog
+* Contributors: TheDash
+
 0.5.6 (2014-09-07)
 ------------------
 

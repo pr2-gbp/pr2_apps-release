@@ -2,6 +2,11 @@
 Changelog for package pr2_teleop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.18 (2015-02-10)
+-------------------
+* fix install destination
+* Contributors: Furushchev
+
 0.5.16 (2015-02-06)
 -------------------
 

@@ -38,7 +38,7 @@ tracks:
     patches: null
     release_inc: '0'
     release_repo_url: null
-    release_tag: 0.5.17
+    release_tag: 0.5.18
     ros_distro: indigo
     vcs_type: git
     vcs_uri: https://github.com/PR2/pr2_apps.git

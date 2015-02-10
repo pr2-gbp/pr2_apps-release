@@ -1,0 +1,12 @@
+Source: ros-indigo-pr2-app-manager
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-app-manager, ros-indigo-catkin, ros-indigo-willow-maps
+Homepage: http://ros.org/wiki/application_manager
+Standards-Version: 3.9.2
+
+Package: ros-indigo-pr2-app-manager
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-app-manager, ros-indigo-willow-maps
+Description: Scripts and tools for running the application manager on the PR2.

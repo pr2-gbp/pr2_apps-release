@@ -1,0 +1,139 @@
+ros-indigo-pr2-teleop-general (0.5.18-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 10 Feb 2015 06:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.16-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Fri, 06 Feb 2015 06:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.15-0trusty) trusty; urgency=high
+
+  * Bugfix for pr2_teleop_general. Added destinations for targets
+  * Added target locations to pr2_teleop libs and execs
+  * Added installs for pr2_teleop_general and pr2_teleop
+  * Contributors: dash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 28 Jan 2015 06:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.14-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Thu, 20 Nov 2014 06:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.13-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 18 Nov 2014 06:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.12-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 17 Nov 2014 06:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.11-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Mon, 20 Oct 2014 05:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.10-0trusty) trusty; urgency=high
+
+  * Changelogs
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Fri, 17 Oct 2014 05:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.9-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 01 Oct 2014 05:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.8-0trusty) trusty; urgency=high
+
+  * Updated maintainership
+  * Fixing the tf/LinearMath/Quaternion.h not found bug
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 30 Sep 2014 05:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.7-0trusty) trusty; urgency=high
+
+  * Fixed teleop commander lib gen
+  * Changelog
+  * Things
+  * Contributors: TheDash
+  * Things
+  * Contributors: TheDash
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 17 Sep 2014 05:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.6-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Sun, 07 Sep 2014 05:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.5-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Sun, 07 Sep 2014 05:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.4-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Sun, 07 Sep 2014 05:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.3-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Sun, 07 Sep 2014 05:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.2-0trusty) trusty; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Sun, 07 Sep 2014 05:00:00 -0000
+
+ros-indigo-pr2-teleop-general (0.5.1-0trusty) trusty; urgency=high
+
+  * pr2_teleop_general now depends on moveit_msgs instead of kinematics_msgs
+  * Added dependency on moveit_msgs instead of kinematics_msgs
+  * Removed dependency on deprecated kinematics_msgs
+  * fix the disgnated files location in pr2_mannequin_mode
+  * suppress compile error because of lack of catkin_LIBRARIES and LIBRARIES
+  * Fixed linking of teleop_commander, it was in the wrong location
+  * Removed error for linking project
+  * Added bug fix for kinematics_msgs message dependency
+  * Fixed CMake and package to include kinematics_msgs
+  * catknize pr2_teleop_general
+  * migrate to hydro, bullet -> tf
+  * add yaw for control, see https://code.ros.org/trac/wg-ros-pkg/ticket/5118 for original ticket
+  * add wrist orientation control through keyboard
+  * port to joy in sensor_msgs
+  * Fixing some bugs about what is allowed during walk_along
+  * Not changing laser mode on start
+  * pr2_apps:
+    manifest.xml: added cxx flags for library path
+  * Adding some useful launch files
+  * Arm controller name was wrong
+  * Needed arm controller names as more than a remap
+  * Adding a couple useful launch files that don't start ik processes
+  * Adding ik to joystick launch
+  * Increasing options of which components (head/body/arms) to control to (I hope) make it possible to use this for a head cart with only launch file changes.  Also adding a launch file to try on the head cart
+  * Initial commit of pr2_teleop_general, a package for controlling the robot's head, body, and arms with joystick and keyboard implementations
+  * Contributors: JSK applications, Kei Okada, TheDash, Wim Meeussen, gjones, hsu, wurm
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Sat, 06 Sep 2014 05:00:00 -0000
+
+

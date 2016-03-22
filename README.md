@@ -1,3 +1,33 @@
+## pr2_apps (indigo) - 0.5.21-0
+
+The packages in the `pr2_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo pr2_apps --edit` on `Tue, 22 Mar 2016 19:55:32 -0000`
+
+These packages were released:
+- `pr2_app_manager`
+- `pr2_apps`
+- `pr2_mannequin_mode`
+- `pr2_position_scripts`
+- `pr2_teleop`
+- `pr2_teleop_general`
+- `pr2_tuckarm`
+
+Version of package(s) in repository `pr2_apps`:
+
+- upstream repository: https://github.com/PR2/pr2_apps.git
+- release repository: https://github.com/pr2-gbp/pr2_apps-release.git
+- rosdistro version: `0.5.18-0`
+- old version: `0.5.18-0`
+- new version: `0.5.21-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.37`
+
+
 ## pr2_apps (indigo) - 0.5.18-0
 
 The packages in the `pr2_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release pr2_apps --rosdistro indigo --track indigo --edit` on `Tue, 10 Feb 2015 15:52:03 -0000`

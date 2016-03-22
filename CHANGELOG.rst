@@ -2,6 +2,14 @@
 Changelog for package pr2_app_manager
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.20 (2015-05-05)
+-------------------
+
+0.5.19 (2015-04-29)
+-------------------
+* added changelogs
+* Contributors: TheDash
+
 0.5.18 (2015-02-10)
 -------------------
 * Merge branch 'hydro-devel' of https://github.com/PR2/pr2_apps into hydro-devel

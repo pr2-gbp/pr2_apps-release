@@ -1,0 +1,13 @@
+Source: ros-indigo-pr2-position-scripts
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-catkin, ros-indigo-pr2-controllers-msgs, ros-indigo-rospy, ros-indigo-tf
+Homepage: http://ros.org/wiki/pr2_position_scripts
+Standards-Version: 3.9.2
+
+Package: ros-indigo-pr2-position-scripts
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-pr2-controllers-msgs, ros-indigo-rospy, ros-indigo-tf
+Description: This package contains a number of scripts to set various components of the PR2.
+ They are used in the apps to improve usablity.

@@ -1,0 +1,12 @@
+Source: ros-indigo-pr2-teleop
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-catkin, ros-indigo-geometry-msgs, ros-indigo-pr2-controllers-msgs, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-std-msgs, ros-indigo-tf, ros-indigo-topic-tools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-pr2-teleop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-geometry-msgs, ros-indigo-pr2-controllers-msgs, ros-indigo-roscpp, ros-indigo-rospy, ros-indigo-std-msgs, ros-indigo-tf, ros-indigo-topic-tools
+Description: The pr2_teleop package

@@ -1,3 +1,33 @@
+## pr2_apps (kinetic) - 0.6.0-0
+
+The packages in the `pr2_apps` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release pr2_apps --rosdistro kinetic --track kinetic` on `Wed, 14 Feb 2018 16:26:39 -0000`
+
+These packages were released:
+- `pr2_app_manager`
+- `pr2_apps`
+- `pr2_mannequin_mode`
+- `pr2_position_scripts`
+- `pr2_teleop`
+- `pr2_teleop_general`
+- `pr2_tuckarm`
+
+Version of package(s) in repository `pr2_apps`:
+
+- upstream repository: https://github.com/PR2/pr2_apps.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.6.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.3.6`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## pr2_apps (indigo) - 0.5.21-1
 
 The packages in the `pr2_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo pr2_apps` on `Wed, 23 Mar 2016 22:17:45 -0000`

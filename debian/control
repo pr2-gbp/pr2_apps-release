@@ -1,0 +1,13 @@
+Source: ros-kinetic-pr2-position-scripts
+Section: misc
+Priority: extra
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-actionlib, ros-kinetic-catkin, ros-kinetic-pr2-controllers-msgs, ros-kinetic-rospy, ros-kinetic-tf
+Homepage: http://ros.org/wiki/pr2_position_scripts
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-pr2-position-scripts
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-actionlib, ros-kinetic-pr2-controllers-msgs, ros-kinetic-rospy, ros-kinetic-tf
+Description: This package contains a number of scripts to set various components of the PR2.
+ They are used in the apps to improve usablity.

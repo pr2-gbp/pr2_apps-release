@@ -1,0 +1,93 @@
+ros-kinetic-pr2-app-manager (0.6.0-0xenial) xenial; urgency=high
+
+  * Merge pull request #15 <https://github.com/pr2/pr2_apps/issues/15> from k-okada/remove_build_depend
+    we do not need any package during build process
+  * Merge pull request #29 <https://github.com/pr2/pr2_apps/issues/29> from k-okada/kinetic-devel
+    Kinetic devel
+  * Merge pull request #30 <https://github.com/pr2/pr2_apps/issues/30> from k-okada/orph
+    change maintainer to ROS orphaned package maintainer
+  * change maintainer to ROS orphaned package maintainer
+  * Merge branch 'hydro-devel' into kinetic-devel
+  * we do not need any package during build process
+  * Contributors: Kei Okada
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 13 Feb 2018 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.20-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 04 May 2015 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.19-0xenial) xenial; urgency=high
+
+  * added changelogs
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 28 Apr 2015 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.18-0xenial) xenial; urgency=high
+
+  * Merge branch 'hydro-devel' of https://github.com/PR2/pr2_apps into hydro-devel
+  * Updated maintainership
+  * fix install destination
+  * Contributors: Furushchev, TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 09 Feb 2015 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.16-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Thu, 05 Feb 2015 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.15-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 27 Jan 2015 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.14-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 19 Nov 2014 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.13-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 17 Nov 2014 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.12-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 16 Nov 2014 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.11-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 19 Oct 2014 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.10-0xenial) xenial; urgency=high
+
+  * Removed include dependency
+  * Removed use_source_permissions
+  * Fixed pr2_app_manager install
+  * Changelogs
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Thu, 16 Oct 2014 15:00:00 -0000
+
+ros-kinetic-pr2-app-manager (0.5.9-0xenial) xenial; urgency=high
+
+  * Updated pr2_app_manager, now compiles in hydro
+  * Updated pr2_app_manager
+  * Added pr2_app_manager package
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 30 Sep 2014 15:00:00 -0000
+
+

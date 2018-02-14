@@ -1,0 +1,181 @@
+ros-kinetic-pr2-teleop-general (0.6.0-0jessie) jessie; urgency=high
+
+  * Merge pull request #35 <https://github.com/pr2/pr2_apps/issues/35> from k-okada/remove_GetKinematicSolverInfo
+    remove GetKinematicSolverInfo
+  * remove GetKinematicSolverInfo
+    GetKinematicSolverInfo.srv has been removed from moveit_msgs by https://github.com/ros-planning/moveit_msgs/issues/3,
+    since I'm not sure what is the best way to re-write code without this service, but to write the list of joint names directory
+  * Merge pull request #34 <https://github.com/pr2/pr2_apps/issues/34> from PR2/k-okada-patch-1
+    remove bullet depend from package.xml
+  * remove bullet depend from package.xml
+    emove depend to bullet, it already removed from code long time ago https://github.com/PR2/pr2_apps/pull/8/commits/64b60278bc02e83b1826f6f122b573e298476285
+  * Merge pull request #32 <https://github.com/pr2/pr2_apps/issues/32> from k-okada/fix_cmake_teleop
+    fix cmake of pr2_teleop_general
+  * fix cmake of pr2_teleop_general
+    - remove depend to bullet, it already removed from code long time ago https://github.com/PR2/pr2_apps/pull/8/commits/64b60278bc02e83b1826f6f122b573e298476285
+    - use  ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS}, instead of *msgs_gencpp
+  * Merge pull request #31 <https://github.com/pr2/pr2_apps/issues/31> from k-okada/19
+    add pr2_mannequin_mode as run_depend for pr2_teleop_general.
+  * add pr2_mannequin_mode as run_depend for pr2_teleop_general.
+  * Merge pull request #29 <https://github.com/pr2/pr2_apps/issues/29> from k-okada/kinetic-devel
+    Kinetic devel
+  * Merge pull request #30 <https://github.com/pr2/pr2_apps/issues/30> from k-okada/orph
+    change maintainer to ROS orphaned package maintainer
+  * change maintainer to ROS orphaned package maintainer
+  * Merge branch 'hydro-devel' into kinetic-devel
+  * Contributors: Christian Dornhege, Kei Okada
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 13 Feb 2018 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.20-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 04 May 2015 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.19-0jessie) jessie; urgency=high
+
+  * added changelogs
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 28 Apr 2015 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.18-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 09 Feb 2015 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.16-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Thu, 05 Feb 2015 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.15-0jessie) jessie; urgency=high
+
+  * Bugfix for pr2_teleop_general. Added destinations for targets
+  * Added target locations to pr2_teleop libs and execs
+  * Added installs for pr2_teleop_general and pr2_teleop
+  * Contributors: dash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 27 Jan 2015 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.14-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 19 Nov 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.13-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 17 Nov 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.12-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 16 Nov 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.11-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 19 Oct 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.10-0jessie) jessie; urgency=high
+
+  * Changelogs
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Thu, 16 Oct 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.9-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 30 Sep 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.8-0jessie) jessie; urgency=high
+
+  * Updated maintainership
+  * Fixing the tf/LinearMath/Quaternion.h not found bug
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 29 Sep 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.7-0jessie) jessie; urgency=high
+
+  * Fixed teleop commander lib gen
+  * Changelog
+  * Things
+  * Contributors: TheDash
+  * Things
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 16 Sep 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.6-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sat, 06 Sep 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.5-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sat, 06 Sep 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.4-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sat, 06 Sep 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.3-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sat, 06 Sep 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.2-0jessie) jessie; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sat, 06 Sep 2014 15:00:00 -0000
+
+ros-kinetic-pr2-teleop-general (0.5.1-0jessie) jessie; urgency=high
+
+  * pr2_teleop_general now depends on moveit_msgs instead of kinematics_msgs
+  * Added dependency on moveit_msgs instead of kinematics_msgs
+  * Removed dependency on deprecated kinematics_msgs
+  * fix the disgnated files location in pr2_mannequin_mode
+  * suppress compile error because of lack of catkin_LIBRARIES and LIBRARIES
+  * Fixed linking of teleop_commander, it was in the wrong location
+  * Removed error for linking project
+  * Added bug fix for kinematics_msgs message dependency
+  * Fixed CMake and package to include kinematics_msgs
+  * catknize pr2_teleop_general
+  * migrate to hydro, bullet -> tf
+  * add yaw for control, see https://code.ros.org/trac/wg-ros-pkg/ticket/5118 for original ticket
+  * add wrist orientation control through keyboard
+  * port to joy in sensor_msgs
+  * Fixing some bugs about what is allowed during walk_along
+  * Not changing laser mode on start
+  * pr2_apps:
+    manifest.xml: added cxx flags for library path
+  * Adding some useful launch files
+  * Arm controller name was wrong
+  * Needed arm controller names as more than a remap
+  * Adding a couple useful launch files that don't start ik processes
+  * Adding ik to joystick launch
+  * Increasing options of which components (head/body/arms) to control to (I hope) make it possible to use this for a head cart with only launch file changes.  Also adding a launch file to try on the head cart
+  * Initial commit of pr2_teleop_general, a package for controlling the robot's head, body, and arms with joystick and keyboard implementations
+  * Contributors: JSK applications, Kei Okada, TheDash, Wim Meeussen, gjones, hsu, wurm
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Fri, 05 Sep 2014 15:00:00 -0000
+
+

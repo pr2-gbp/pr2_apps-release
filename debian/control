@@ -1,0 +1,12 @@
+Source: ros-kinetic-pr2-teleop-general
+Section: misc
+Priority: extra
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-angles, ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-moveit-msgs, ros-kinetic-polled-camera, ros-kinetic-pr2-common-action-msgs, ros-kinetic-pr2-controller-manager, ros-kinetic-pr2-controllers-msgs, ros-kinetic-pr2-mechanism-msgs, ros-kinetic-pr2-msgs, ros-kinetic-ps3joy, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-tf, ros-kinetic-urdf
+Homepage: http://ros.org/wiki/pr2_teleop_general
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-pr2-teleop-general
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-actionlib, ros-kinetic-actionlib-msgs, ros-kinetic-angles, ros-kinetic-geometry-msgs, ros-kinetic-moveit-msgs, ros-kinetic-polled-camera, ros-kinetic-pr2-arm-kinematics, ros-kinetic-pr2-common-action-msgs, ros-kinetic-pr2-controller-manager, ros-kinetic-pr2-controllers-msgs, ros-kinetic-pr2-mannequin-mode, ros-kinetic-pr2-mechanism-msgs, ros-kinetic-pr2-msgs, ros-kinetic-pr2-tuck-arms-action, ros-kinetic-ps3joy, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-tf, ros-kinetic-urdf
+Description: pr2_teleop_general

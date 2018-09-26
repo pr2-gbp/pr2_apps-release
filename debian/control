@@ -1,0 +1,13 @@
+Source: ros-lunar-pr2-position-scripts
+Section: misc
+Priority: extra
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-actionlib, ros-lunar-catkin, ros-lunar-pr2-controllers-msgs, ros-lunar-rospy, ros-lunar-tf
+Homepage: http://ros.org/wiki/pr2_position_scripts
+Standards-Version: 3.9.2
+
+Package: ros-lunar-pr2-position-scripts
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-actionlib, ros-lunar-pr2-controllers-msgs, ros-lunar-rospy, ros-lunar-tf
+Description: This package contains a number of scripts to set various components of the PR2.
+ They are used in the apps to improve usablity.

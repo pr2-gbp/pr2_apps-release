@@ -1,3 +1,33 @@
+## pr2_apps (melodic) - 0.6.1-0
+
+The packages in the `pr2_apps` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --edit -y pr2_apps --rosdistro melodic --track melodic` on `Wed, 26 Sep 2018 09:12:59 -0000`
+
+These packages were released:
+- `pr2_app_manager`
+- `pr2_apps`
+- `pr2_mannequin_mode`
+- `pr2_position_scripts`
+- `pr2_teleop`
+- `pr2_teleop_general`
+- `pr2_tuckarm`
+
+Version of package(s) in repository `pr2_apps`:
+
+- upstream repository: https://github.com/PR2/pr2_apps.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.6.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## pr2_apps (lunar) - 0.6.1-0
 
 The packages in the `pr2_apps` repository were released into the `lunar` distro by running `/usr/bin/bloom-release --edit -y pr2_apps --rosdistro lunar --track lunar` on `Wed, 26 Sep 2018 07:43:06 -0000`

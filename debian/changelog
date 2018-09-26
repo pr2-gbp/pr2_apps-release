@@ -1,0 +1,139 @@
+ros-melodic-pr2-apps (0.6.1-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 26 Sep 2018 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.6.0-0bionic) bionic; urgency=high
+
+  * Merge pull request #29 <https://github.com/pr2/pr2_apps/issues/29> from k-okada/kinetic-devel
+    Kinetic devel
+  * Merge pull request #30 <https://github.com/pr2/pr2_apps/issues/30> from k-okada/orph
+    change maintainer to ROS orphaned package maintainer
+  * change maintainer to ROS orphaned package maintainer
+  * Merge branch 'hydro-devel' into kinetic-devel
+  * Contributors: Kei Okada
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 14 Feb 2018 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.20-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 05 May 2015 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.19-0bionic) bionic; urgency=high
+
+  * added changelogs
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 29 Apr 2015 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.18-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 10 Feb 2015 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.16-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Fri, 06 Feb 2015 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.15-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 28 Jan 2015 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.14-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.13-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 18 Nov 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.12-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 17 Nov 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.11-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 20 Oct 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.10-0bionic) bionic; urgency=high
+
+  * Changelogs
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Fri, 17 Oct 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.9-0bionic) bionic; urgency=high
+
+  * Added app manager to package.xml
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 01 Oct 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.8-0bionic) bionic; urgency=high
+
+  * Updated maintainership
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 30 Sep 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.7-0bionic) bionic; urgency=high
+
+  * Changelog
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 17 Sep 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.6-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 07 Sep 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.5-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 07 Sep 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.4-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 07 Sep 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.3-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 07 Sep 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.2-0bionic) bionic; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 07 Sep 2014 00:00:00 -0000
+
+ros-melodic-pr2-apps (0.5.1-0bionic) bionic; urgency=high
+
+  * add pr2_apps meta package, remove stack.xml
+  * Contributors: Kei Okada
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sat, 06 Sep 2014 00:00:00 -0000
+
+

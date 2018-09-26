@@ -1,0 +1,12 @@
+Source: ros-melodic-pr2-apps
+Section: misc
+Priority: extra
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://ros.org/wiki/pr2_apps
+Standards-Version: 3.9.2
+
+Package: ros-melodic-pr2-apps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-pr2-app-manager, ros-melodic-pr2-kinematics, ros-melodic-pr2-mannequin-mode, ros-melodic-pr2-position-scripts, ros-melodic-pr2-teleop-general, ros-melodic-pr2-tuckarm
+Description: Basic applications for the PR2 robot

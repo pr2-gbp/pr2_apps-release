@@ -1,0 +1,160 @@
+ros-lunar-pr2-tuckarm (0.6.1-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 26 Sep 2018 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.6.0-0xenial) xenial; urgency=high
+
+  * Merge pull request #33 <https://github.com/pr2/pr2_apps/issues/33> from k-okada/add_tuckle_arm
+    fix tuck arm client code back to tuck_arm_main.py
+  * fix tuck arm client code back to tuck_arm_main.py
+    at this moment, pr2_tuckarm tuck_arms.py just start action server, but we expect to run client code see http://wiki.ros.org/pr2_tuckarm
+    c.f. https://github.com/PR2/pr2_common_actions/pull/33
+  * Merge pull request #15 <https://github.com/pr2/pr2_apps/issues/15> from k-okada/remove_build_depend
+    we do not need any package during build process
+  * Merge pull request #29 <https://github.com/pr2/pr2_apps/issues/29> from k-okada/kinetic-devel
+    Kinetic devel
+  * Merge pull request #30 <https://github.com/pr2/pr2_apps/issues/30> from k-okada/orph
+    change maintainer to ROS orphaned package maintainer
+  * change maintainer to ROS orphaned package maintainer
+  * Merge branch 'hydro-devel' into kinetic-devel
+  * we do not need any package during build process
+  * Contributors: Kei Okada
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 14 Feb 2018 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.20-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 05 May 2015 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.19-0xenial) xenial; urgency=high
+
+  * added changelogs
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 29 Apr 2015 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.18-0xenial) xenial; urgency=high
+
+  * Merge branch 'hydro-devel' of https://github.com/PR2/pr2_apps into hydro-devel
+  * Updated maintainership
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 10 Feb 2015 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.16-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Fri, 06 Feb 2015 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.15-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 28 Jan 2015 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.14-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.13-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 18 Nov 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.12-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 17 Nov 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.11-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 20 Oct 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.10-0xenial) xenial; urgency=high
+
+  * Changelogs
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Fri, 17 Oct 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.9-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 01 Oct 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.8-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 30 Sep 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.7-0xenial) xenial; urgency=high
+
+  * Changelog
+  * Things
+  * Contributors: TheDash
+  * Things
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 17 Sep 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.6-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 07 Sep 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.5-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 07 Sep 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.4-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 07 Sep 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.3-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 07 Sep 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.2-0xenial) xenial; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sun, 07 Sep 2014 00:00:00 -0000
+
+ros-lunar-pr2-tuckarm (0.5.1-0xenial) xenial; urgency=high
+
+  * Works
+  * catkinize pr2_tuckarm
+  * Remove tuck_arms
+  * Add icon for tuckarms
+  * Add .hgignore.
+  * remove deprecated tuckarm script
+  * fix logerr typo
+  * link to new tuckarm version in pr2_common_actions
+  * Added Ubuntu platform tags to manifest
+  * deprecate tuckarm
+  * staging pr2_apps into tick-tock
+  * Contributors: Add tuckarms, Kei Okada, TheDash, Tony Pratkanis, gerkey, kwc, pratkanis, wim
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Sat, 06 Sep 2014 00:00:00 -0000
+
+

@@ -1,0 +1,12 @@
+Source: ros-lunar-pr2-teleop
+Section: misc
+Priority: extra
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-actionlib, ros-lunar-catkin, ros-lunar-geometry-msgs, ros-lunar-pr2-controllers-msgs, ros-lunar-roscpp, ros-lunar-rospy, ros-lunar-std-msgs, ros-lunar-tf, ros-lunar-topic-tools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-pr2-teleop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-actionlib, ros-lunar-geometry-msgs, ros-lunar-pr2-controllers-msgs, ros-lunar-roscpp, ros-lunar-rospy, ros-lunar-std-msgs, ros-lunar-tf, ros-lunar-topic-tools
+Description: The pr2_teleop package

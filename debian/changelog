@@ -1,0 +1,99 @@
+ros-lunar-pr2-app-manager (0.6.1-0stretch) stretch; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 26 Sep 2018 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.6.0-0stretch) stretch; urgency=high
+
+  * Merge pull request #15 <https://github.com/pr2/pr2_apps/issues/15> from k-okada/remove_build_depend
+    we do not need any package during build process
+  * Merge pull request #29 <https://github.com/pr2/pr2_apps/issues/29> from k-okada/kinetic-devel
+    Kinetic devel
+  * Merge pull request #30 <https://github.com/pr2/pr2_apps/issues/30> from k-okada/orph
+    change maintainer to ROS orphaned package maintainer
+  * change maintainer to ROS orphaned package maintainer
+  * Merge branch 'hydro-devel' into kinetic-devel
+  * we do not need any package during build process
+  * Contributors: Kei Okada
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 14 Feb 2018 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.20-0stretch) stretch; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 05 May 2015 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.19-0stretch) stretch; urgency=high
+
+  * added changelogs
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 29 Apr 2015 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.18-0stretch) stretch; urgency=high
+
+  * Merge branch 'hydro-devel' of https://github.com/PR2/pr2_apps into hydro-devel
+  * Updated maintainership
+  * fix install destination
+  * Contributors: Furushchev, TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 10 Feb 2015 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.16-0stretch) stretch; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Fri, 06 Feb 2015 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.15-0stretch) stretch; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 28 Jan 2015 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.14-0stretch) stretch; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Thu, 20 Nov 2014 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.13-0stretch) stretch; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 18 Nov 2014 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.12-0stretch) stretch; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 17 Nov 2014 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.11-0stretch) stretch; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 20 Oct 2014 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.10-0stretch) stretch; urgency=high
+
+  * Removed include dependency
+  * Removed use_source_permissions
+  * Fixed pr2_app_manager install
+  * Changelogs
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Fri, 17 Oct 2014 00:00:00 -0000
+
+ros-lunar-pr2-app-manager (0.5.9-0stretch) stretch; urgency=high
+
+  * Updated pr2_app_manager, now compiles in hydro
+  * Updated pr2_app_manager
+  * Added pr2_app_manager package
+  * Contributors: TheDash
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Wed, 01 Oct 2014 00:00:00 -0000
+
+

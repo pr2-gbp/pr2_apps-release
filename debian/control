@@ -1,0 +1,12 @@
+Source: ros-melodic-pr2-teleop
+Section: misc
+Priority: extra
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-pr2-controllers-msgs, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-std-msgs, ros-melodic-tf, ros-melodic-topic-tools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-pr2-teleop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-actionlib, ros-melodic-geometry-msgs, ros-melodic-pr2-controllers-msgs, ros-melodic-roscpp, ros-melodic-rospy, ros-melodic-std-msgs, ros-melodic-tf, ros-melodic-topic-tools
+Description: The pr2_teleop package

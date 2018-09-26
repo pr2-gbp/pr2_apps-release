@@ -1,0 +1,12 @@
+Source: ros-lunar-pr2-apps
+Section: misc
+Priority: extra
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin
+Homepage: http://ros.org/wiki/pr2_apps
+Standards-Version: 3.9.2
+
+Package: ros-lunar-pr2-apps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-pr2-app-manager, ros-lunar-pr2-kinematics, ros-lunar-pr2-mannequin-mode, ros-lunar-pr2-position-scripts, ros-lunar-pr2-teleop-general, ros-lunar-pr2-tuckarm
+Description: Basic applications for the PR2 robot

@@ -1,0 +1,12 @@
+Source: ros-melodic-pr2-teleop-general
+Section: misc
+Priority: extra
+Maintainer: ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-angles, ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-moveit-msgs, ros-melodic-polled-camera, ros-melodic-pr2-common-action-msgs, ros-melodic-pr2-controller-manager, ros-melodic-pr2-controllers-msgs, ros-melodic-pr2-mechanism-msgs, ros-melodic-pr2-msgs, ros-melodic-ps3joy, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-tf, ros-melodic-urdf
+Homepage: http://ros.org/wiki/pr2_teleop_general
+Standards-Version: 3.9.2
+
+Package: ros-melodic-pr2-teleop-general
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-actionlib, ros-melodic-actionlib-msgs, ros-melodic-angles, ros-melodic-geometry-msgs, ros-melodic-moveit-msgs, ros-melodic-polled-camera, ros-melodic-pr2-arm-kinematics, ros-melodic-pr2-common-action-msgs, ros-melodic-pr2-controller-manager, ros-melodic-pr2-controllers-msgs, ros-melodic-pr2-mannequin-mode, ros-melodic-pr2-mechanism-msgs, ros-melodic-pr2-msgs, ros-melodic-pr2-tuck-arms-action, ros-melodic-ps3joy, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-tf, ros-melodic-urdf
+Description: pr2_teleop_general
